@@ -1,0 +1,13 @@
+RewriteEngine On 
+
+RewriteRule ^\.htaccess$ - [F] 
+RewriteCond %{REQUEST_URI} ="" 
+RewriteRule ^.*$ /portal/public/index.php [NC,L] 
+
+RewriteCond %{REQUEST_URI} !^/portal/public/.*$ 
+RewriteRule ^(.*)$ /portal/public/$1 
+
+RewriteCond %{REQUEST_FILENAME} -f 
+RewriteRule ^.*$ - [NC,L] 
+
+RewriteRule ^portal/public/.*$ /portal/public/index.php [NC,L]

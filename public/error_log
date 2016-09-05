@@ -1,0 +1,28 @@
+[07-Jul-2016 16:46:10 Asia/Kolkata] PHP Fatal error:  Class 'Mandriller\Mandriller' not found in /home/cynesoft/public_html/demos/diamond/fuel/app/classes/controller/welcome.php on line 77
+[07-Jul-2016 16:47:26 Asia/Kolkata] PHP Fatal error:  Class 'Mandriller' not found in /home/cynesoft/public_html/demos/diamond/fuel/app/classes/controller/welcome.php on line 77
+[08-Jul-2016 10:50:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) in /home/cynesoft/public_html/demos/diamond/fuel/app/classes/controller/welcome.php on line 91
+[08-Jul-2016 10:51:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) in /home/cynesoft/public_html/demos/diamond/fuel/app/classes/controller/welcome.php on line 91
+[08-Jul-2016 12:12:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/diamond7/public_html/portal/fuel/app/classes/controller/welcome.php on line 1
+[08-Jul-2016 12:13:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/diamond7/public_html/portal/fuel/app/classes/controller/welcome.php on line 21
+[08-Jul-2016 12:13:49 Asia/Kolkata] PHP Fatal error:  Call to undefined method Email\Email_Driver_Mandrill::template_name() in /home/diamond7/public_html/portal/fuel/app/classes/controller/welcome.php on line 60
+[08-Jul-2016 12:25:22 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /home/diamond7/public_html/portal/fuel/app/classes/controller/welcome.php on line 62
+[08-Jul-2016 12:26:00 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /home/diamond7/public_html/portal/fuel/app/classes/controller/welcome.php on line 62
+[08-Jul-2016 12:29:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/diamond7/public_html/portal/fuel/packages/mandrill/classes/email/driver/mandrill.php on line 85
+[08-Jul-2016 14:36:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/diamond7/public_html/portal/fuel/app/classes/controller/welcome.php on line 60
+[08-Jul-2016 15:40:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/diamond7/public_html/portal/fuel/app/classes/controller/admin/leads.php on line 173
+[08-Jul-2016 15:40:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/diamond7/public_html/portal/fuel/app/classes/controller/admin/leads.php on line 173
+[08-Jul-2016 15:41:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/diamond7/public_html/portal/fuel/app/classes/controller/admin/leads.php on line 173
+[08-Jul-2016 16:54:35 Asia/Kolkata] PHP Fatal error:  Class 'Diamondfinder' not found in /home/diamond7/public_html/portal/fuel/app/classes/controller/welcome.php on line 4
+[08-Jul-2016 17:05:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/diamond7/public_html/portal/fuel/app/classes/controller/jeweller.php on line 274
+[08-Jul-2016 17:05:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/diamond7/public_html/portal/fuel/app/classes/controller/jeweller.php on line 274
+[08-Jul-2016 17:06:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/diamond7/public_html/portal/fuel/app/classes/controller/jeweller.php on line 274
+[09-Jul-2016 09:16:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/diamond7/public_html/portal/fuel/app/classes/controller/admin/jewellers.php on line 256
+[09-Jul-2016 09:17:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/diamond7/public_html/portal/fuel/app/classes/controller/admin/jewellers.php on line 256
+[09-Jul-2016 11:44:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/diamond7/public_html/portal/fuel/app/views/admin/jewellers/history.php on line 29
+[09-Jul-2016 19:52:29 Asia/Kolkata] PHP Fatal error:  Class 'Model_Users' not found in /home/diamond7/public_html/portal/fuel/app/classes/controller/account.php on line 19
+[10-Jul-2016 15:36:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/diamond7/public_html/portal/fuel/app/views/front/template-jeweller.php on line 68
+[11-Jul-2016 12:26:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/diamond7/public_html/portal/fuel/app/views/admin/settings.php on line 13
+[12-Jul-2016 07:34:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/diamond7/public_html/portal/fuel/app/classes/controller/jeweller.php on line 191
+[14-Jul-2016 16:58:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/diamond7/public_html/portal/fuel/app/views/front/account/history-listrows.php on line 21
+[14-Jul-2016 17:53:38 Asia/Kolkata] PHP Fatal error:  Class 'diamondfinder' not found in /home/diamond7/public_html/portal/fuel/app/classes/controller/jeweller.php on line 175
+[27-Jul-2016 22:06:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/diamond7/public_html/portal/fuel/app/classes/controller/account.php on line 44
